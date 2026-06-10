@@ -1,0 +1,1796 @@
+BASE DE DATOS - EQUIPOS DESDE OCTAVOS DE FINAL
+Nota: Planteles armados con jugadores reales y clubes reales/reconocibles para usar como datos de prueba.
+No representa una convocatoria oficial definitiva del Mundial 2026.
+
+====================================================
+PAÍS: ARGENTINA
+Fundación de la federación: 1893
+Sede principal: Buenos Aires
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Emiliano Martínez
+   Posición: Arquero
+   Equipo: Aston Villa
+
+2. Gerónimo Rulli
+   Posición: Arquero
+   Equipo: Olympique de Marseille
+
+3. Franco Armani
+   Posición: Arquero
+   Equipo: River Plate
+
+4. Nahuel Molina
+   Posición: Lateral derecho
+   Equipo: Atlético de Madrid
+
+5. Gonzalo Montiel
+   Posición: Lateral derecho
+   Equipo: Nottingham Forest
+
+6. Cristian Romero
+   Posición: Defensor central
+   Equipo: Tottenham Hotspur
+
+7. Nicolás Otamendi
+   Posición: Defensor central
+   Equipo: Benfica
+
+8. Lisandro Martínez
+   Posición: Defensor central
+   Equipo: Manchester United
+
+9. Germán Pezzella
+   Posición: Defensor central
+   Equipo: Real Betis
+
+10. Marcos Acuña
+   Posición: Lateral izquierdo
+   Equipo: River Plate
+
+11. Nicolás Tagliafico
+   Posición: Lateral izquierdo
+   Equipo: Olympique Lyonnais
+
+12. Rodrigo De Paul
+   Posición: Mediocampista
+   Equipo: Atlético de Madrid
+
+13. Leandro Paredes
+   Posición: Mediocampista
+   Equipo: Roma
+
+14. Enzo Fernández
+   Posición: Mediocampista
+   Equipo: Chelsea
+
+15. Alexis Mac Allister
+   Posición: Mediocampista
+   Equipo: Liverpool
+
+16. Exequiel Palacios
+   Posición: Mediocampista
+   Equipo: Bayer Leverkusen
+
+17. Giovani Lo Celso
+   Posición: Mediocampista
+   Equipo: Real Betis
+
+18. Guido Rodríguez
+   Posición: Mediocampista
+   Equipo: West Ham United
+
+19. Thiago Almada
+   Posición: Mediapunta
+   Equipo: Atlanta United
+
+20. Lionel Messi
+   Posición: Delantero
+   Equipo: Inter Miami
+
+21. Ángel Di María
+   Posición: Extremo
+   Equipo: Benfica
+
+22. Julián Álvarez
+   Posición: Delantero
+   Equipo: Manchester City
+
+23. Lautaro Martínez
+   Posición: Delantero
+   Equipo: Inter de Milán
+
+24. Nicolás González
+   Posición: Extremo
+   Equipo: Fiorentina
+
+25. Alejandro Garnacho
+   Posición: Extremo
+   Equipo: Manchester United
+
+26. Paulo Dybala
+   Posición: Delantero
+   Equipo: Roma
+
+====================================================
+PAÍS: BRASIL
+Fundación de la federación: 1914
+Sede principal: Río de Janeiro
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Alisson Becker
+   Posición: Arquero
+   Equipo: Liverpool
+
+2. Ederson Moraes
+   Posición: Arquero
+   Equipo: Manchester City
+
+3. Bento Krepski
+   Posición: Arquero
+   Equipo: Al-Nassr
+
+4. Danilo
+   Posición: Lateral derecho
+   Equipo: Juventus
+
+5. Yan Couto
+   Posición: Lateral derecho
+   Equipo: Borussia Dortmund
+
+6. Marquinhos
+   Posición: Defensor central
+   Equipo: Paris Saint-Germain
+
+7. Gabriel Magalhães
+   Posición: Defensor central
+   Equipo: Arsenal
+
+8. Éder Militão
+   Posición: Defensor central
+   Equipo: Real Madrid
+
+9. Bremer
+   Posición: Defensor central
+   Equipo: Juventus
+
+10. Lucas Beraldo
+   Posición: Defensor central
+   Equipo: Paris Saint-Germain
+
+11. Guilherme Arana
+   Posición: Lateral izquierdo
+   Equipo: Atlético Mineiro
+
+12. Wendell
+   Posición: Lateral izquierdo
+   Equipo: Porto
+
+13. Casemiro
+   Posición: Mediocampista
+   Equipo: Manchester United
+
+14. Bruno Guimarães
+   Posición: Mediocampista
+   Equipo: Newcastle United
+
+15. Lucas Paquetá
+   Posición: Mediocampista
+   Equipo: West Ham United
+
+16. João Gomes
+   Posición: Mediocampista
+   Equipo: Wolverhampton
+
+17. Douglas Luiz
+   Posición: Mediocampista
+   Equipo: Juventus
+
+18. Andreas Pereira
+   Posición: Mediocampista
+   Equipo: Fulham
+
+19. Vinicius Jr
+   Posición: Extremo
+   Equipo: Real Madrid
+
+20. Rodrygo
+   Posición: Extremo
+   Equipo: Real Madrid
+
+21. Raphinha
+   Posición: Extremo
+   Equipo: Barcelona
+
+22. Gabriel Martinelli
+   Posición: Extremo
+   Equipo: Arsenal
+
+23. Neymar Jr
+   Posición: Delantero
+   Equipo: Al-Hilal
+
+24. Endrick
+   Posición: Delantero
+   Equipo: Real Madrid
+
+25. Richarlison
+   Posición: Delantero
+   Equipo: Tottenham Hotspur
+
+26. Savinho
+   Posición: Extremo
+   Equipo: Manchester City
+
+====================================================
+PAÍS: FRANCIA
+Fundación de la federación: 1919
+Sede principal: París
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Mike Maignan
+   Posición: Arquero
+   Equipo: Milan
+
+2. Brice Samba
+   Posición: Arquero
+   Equipo: Lens
+
+3. Alphonse Areola
+   Posición: Arquero
+   Equipo: West Ham United
+
+4. Jules Koundé
+   Posición: Defensor
+   Equipo: Barcelona
+
+5. William Saliba
+   Posición: Defensor central
+   Equipo: Arsenal
+
+6. Dayot Upamecano
+   Posición: Defensor central
+   Equipo: Bayern Múnich
+
+7. Ibrahima Konaté
+   Posición: Defensor central
+   Equipo: Liverpool
+
+8. Lucas Hernández
+   Posición: Defensor
+   Equipo: Paris Saint-Germain
+
+9. Theo Hernández
+   Posición: Lateral izquierdo
+   Equipo: Milan
+
+10. Jonathan Clauss
+   Posición: Lateral derecho
+   Equipo: Nice
+
+11. Benjamin Pavard
+   Posición: Defensor
+   Equipo: Inter de Milán
+
+12. Aurélien Tchouaméni
+   Posición: Mediocampista
+   Equipo: Real Madrid
+
+13. Eduardo Camavinga
+   Posición: Mediocampista
+   Equipo: Real Madrid
+
+14. Adrien Rabiot
+   Posición: Mediocampista
+   Equipo: Olympique de Marseille
+
+15. N'Golo Kanté
+   Posición: Mediocampista
+   Equipo: Al-Ittihad
+
+16. Warren Zaïre-Emery
+   Posición: Mediocampista
+   Equipo: Paris Saint-Germain
+
+17. Youssouf Fofana
+   Posición: Mediocampista
+   Equipo: Milan
+
+18. Antoine Griezmann
+   Posición: Mediapunta
+   Equipo: Atlético de Madrid
+
+19. Kylian Mbappé
+   Posición: Delantero
+   Equipo: Real Madrid
+
+20. Ousmane Dembélé
+   Posición: Extremo
+   Equipo: Paris Saint-Germain
+
+21. Marcus Thuram
+   Posición: Delantero
+   Equipo: Inter de Milán
+
+22. Randal Kolo Muani
+   Posición: Delantero
+   Equipo: Paris Saint-Germain
+
+23. Kingsley Coman
+   Posición: Extremo
+   Equipo: Bayern Múnich
+
+24. Bradley Barcola
+   Posición: Extremo
+   Equipo: Paris Saint-Germain
+
+25. Olivier Giroud
+   Posición: Delantero
+   Equipo: Los Angeles FC
+
+26. Christopher Nkunku
+   Posición: Delantero
+   Equipo: Chelsea
+
+====================================================
+PAÍS: ESPAÑA
+Fundación de la federación: 1909
+Sede principal: Madrid
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Unai Simón
+   Posición: Arquero
+   Equipo: Athletic Club
+
+2. David Raya
+   Posición: Arquero
+   Equipo: Arsenal
+
+3. Álex Remiro
+   Posición: Arquero
+   Equipo: Real Sociedad
+
+4. Dani Carvajal
+   Posición: Lateral derecho
+   Equipo: Real Madrid
+
+5. Pedro Porro
+   Posición: Lateral derecho
+   Equipo: Tottenham Hotspur
+
+6. Robin Le Normand
+   Posición: Defensor central
+   Equipo: Atlético de Madrid
+
+7. Aymeric Laporte
+   Posición: Defensor central
+   Equipo: Al-Nassr
+
+8. Pau Cubarsí
+   Posición: Defensor central
+   Equipo: Barcelona
+
+9. Nacho Fernández
+   Posición: Defensor central
+   Equipo: Al-Qadsiah
+
+10. Alejandro Grimaldo
+   Posición: Lateral izquierdo
+   Equipo: Bayer Leverkusen
+
+11. Marc Cucurella
+   Posición: Lateral izquierdo
+   Equipo: Chelsea
+
+12. Rodri
+   Posición: Mediocampista
+   Equipo: Manchester City
+
+13. Martín Zubimendi
+   Posición: Mediocampista
+   Equipo: Real Sociedad
+
+14. Fabián Ruiz
+   Posición: Mediocampista
+   Equipo: Paris Saint-Germain
+
+15. Pedri
+   Posición: Mediocampista
+   Equipo: Barcelona
+
+16. Gavi
+   Posición: Mediocampista
+   Equipo: Barcelona
+
+17. Mikel Merino
+   Posición: Mediocampista
+   Equipo: Arsenal
+
+18. Álex Baena
+   Posición: Mediocampista
+   Equipo: Villarreal
+
+19. Dani Olmo
+   Posición: Mediapunta
+   Equipo: Barcelona
+
+20. Fermín López
+   Posición: Mediocampista
+   Equipo: Barcelona
+
+21. Lamine Yamal
+   Posición: Extremo
+   Equipo: Barcelona
+
+22. Nico Williams
+   Posición: Extremo
+   Equipo: Athletic Club
+
+23. Álvaro Morata
+   Posición: Delantero
+   Equipo: Milan
+
+24. Mikel Oyarzabal
+   Posición: Delantero
+   Equipo: Real Sociedad
+
+25. Ferran Torres
+   Posición: Extremo
+   Equipo: Barcelona
+
+26. Joselu Mato
+   Posición: Delantero
+   Equipo: Al-Gharafa
+
+====================================================
+PAÍS: PORTUGAL
+Fundación de la federación: 1914
+Sede principal: Lisboa
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Diogo Costa
+   Posición: Arquero
+   Equipo: Porto
+
+2. Rui Patrício
+   Posición: Arquero
+   Equipo: Atalanta
+
+3. José Sá
+   Posición: Arquero
+   Equipo: Wolverhampton
+
+4. João Cancelo
+   Posición: Lateral
+   Equipo: Al-Hilal
+
+5. Diogo Dalot
+   Posición: Lateral derecho
+   Equipo: Manchester United
+
+6. Nuno Mendes
+   Posición: Lateral izquierdo
+   Equipo: Paris Saint-Germain
+
+7. Pepe
+   Posición: Defensor central
+   Equipo: Porto
+
+8. Rúben Dias
+   Posición: Defensor central
+   Equipo: Manchester City
+
+9. António Silva
+   Posición: Defensor central
+   Equipo: Benfica
+
+10. Gonçalo Inácio
+   Posición: Defensor central
+   Equipo: Sporting CP
+
+11. João Palhinha
+   Posición: Mediocampista
+   Equipo: Bayern Múnich
+
+12. Rúben Neves
+   Posición: Mediocampista
+   Equipo: Al-Hilal
+
+13. Vitinha
+   Posición: Mediocampista
+   Equipo: Paris Saint-Germain
+
+14. Bruno Fernandes
+   Posición: Mediocampista
+   Equipo: Manchester United
+
+15. Bernardo Silva
+   Posición: Mediocampista
+   Equipo: Manchester City
+
+16. Matheus Nunes
+   Posición: Mediocampista
+   Equipo: Manchester City
+
+17. João Neves
+   Posición: Mediocampista
+   Equipo: Paris Saint-Germain
+
+18. Otávio
+   Posición: Mediocampista
+   Equipo: Al-Nassr
+
+19. Cristiano Ronaldo
+   Posición: Delantero
+   Equipo: Al-Nassr
+
+20. Rafael Leão
+   Posición: Extremo
+   Equipo: Milan
+
+21. Diogo Jota
+   Posición: Delantero
+   Equipo: Liverpool
+
+22. João Félix
+   Posición: Delantero
+   Equipo: Chelsea
+
+23. Pedro Neto
+   Posición: Extremo
+   Equipo: Chelsea
+
+24. Francisco Conceição
+   Posición: Extremo
+   Equipo: Juventus
+
+25. Gonçalo Ramos
+   Posición: Delantero
+   Equipo: Paris Saint-Germain
+
+26. Trincão
+   Posición: Extremo
+   Equipo: Sporting CP
+
+====================================================
+PAÍS: INGLATERRA
+Fundación de la federación: 1863
+Sede principal: Londres
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Jordan Pickford
+   Posición: Arquero
+   Equipo: Everton
+
+2. Aaron Ramsdale
+   Posición: Arquero
+   Equipo: Southampton
+
+3. Dean Henderson
+   Posición: Arquero
+   Equipo: Crystal Palace
+
+4. Kyle Walker
+   Posición: Lateral derecho
+   Equipo: Manchester City
+
+5. Trent Alexander-Arnold
+   Posición: Lateral derecho
+   Equipo: Liverpool
+
+6. John Stones
+   Posición: Defensor central
+   Equipo: Manchester City
+
+7. Marc Guéhi
+   Posición: Defensor central
+   Equipo: Crystal Palace
+
+8. Ezri Konsa
+   Posición: Defensor central
+   Equipo: Aston Villa
+
+9. Harry Maguire
+   Posición: Defensor central
+   Equipo: Manchester United
+
+10. Luke Shaw
+   Posición: Lateral izquierdo
+   Equipo: Manchester United
+
+11. Ben Chilwell
+   Posición: Lateral izquierdo
+   Equipo: Chelsea
+
+12. Declan Rice
+   Posición: Mediocampista
+   Equipo: Arsenal
+
+13. Jude Bellingham
+   Posición: Mediocampista
+   Equipo: Real Madrid
+
+14. Conor Gallagher
+   Posición: Mediocampista
+   Equipo: Atlético de Madrid
+
+15. Kobbie Mainoo
+   Posición: Mediocampista
+   Equipo: Manchester United
+
+16. Phil Foden
+   Posición: Mediapunta
+   Equipo: Manchester City
+
+17. Cole Palmer
+   Posición: Mediapunta
+   Equipo: Chelsea
+
+18. James Maddison
+   Posición: Mediapunta
+   Equipo: Tottenham Hotspur
+
+19. Bukayo Saka
+   Posición: Extremo
+   Equipo: Arsenal
+
+20. Jack Grealish
+   Posición: Extremo
+   Equipo: Manchester City
+
+21. Anthony Gordon
+   Posición: Extremo
+   Equipo: Newcastle United
+
+22. Marcus Rashford
+   Posición: Extremo
+   Equipo: Manchester United
+
+23. Harry Kane
+   Posición: Delantero
+   Equipo: Bayern Múnich
+
+24. Ollie Watkins
+   Posición: Delantero
+   Equipo: Aston Villa
+
+25. Ivan Toney
+   Posición: Delantero
+   Equipo: Al-Ahli
+
+26. Jarrod Bowen
+   Posición: Extremo
+   Equipo: West Ham United
+
+====================================================
+PAÍS: ALEMANIA
+Fundación de la federación: 1900
+Sede principal: Frankfurt
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Manuel Neuer
+   Posición: Arquero
+   Equipo: Bayern Múnich
+
+2. Marc-André ter Stegen
+   Posición: Arquero
+   Equipo: Barcelona
+
+3. Oliver Baumann
+   Posición: Arquero
+   Equipo: Hoffenheim
+
+4. Joshua Kimmich
+   Posición: Lateral derecho
+   Equipo: Bayern Múnich
+
+5. Antonio Rüdiger
+   Posición: Defensor central
+   Equipo: Real Madrid
+
+6. Jonathan Tah
+   Posición: Defensor central
+   Equipo: Bayer Leverkusen
+
+7. Nico Schlotterbeck
+   Posición: Defensor central
+   Equipo: Borussia Dortmund
+
+8. Waldemar Anton
+   Posición: Defensor central
+   Equipo: Borussia Dortmund
+
+9. David Raum
+   Posición: Lateral izquierdo
+   Equipo: RB Leipzig
+
+10. Maximilian Mittelstädt
+   Posición: Lateral izquierdo
+   Equipo: Stuttgart
+
+11. Robin Gosens
+   Posición: Lateral izquierdo
+   Equipo: Union Berlin
+
+12. İlkay Gündoğan
+   Posición: Mediocampista
+   Equipo: Manchester City
+
+13. Toni Kroos
+   Posición: Mediocampista
+   Equipo: Real Madrid
+
+14. Robert Andrich
+   Posición: Mediocampista
+   Equipo: Bayer Leverkusen
+
+15. Pascal Groß
+   Posición: Mediocampista
+   Equipo: Borussia Dortmund
+
+16. Florian Wirtz
+   Posición: Mediapunta
+   Equipo: Bayer Leverkusen
+
+17. Jamal Musiala
+   Posición: Mediapunta
+   Equipo: Bayern Múnich
+
+18. Leroy Sané
+   Posición: Extremo
+   Equipo: Bayern Múnich
+
+19. Serge Gnabry
+   Posición: Extremo
+   Equipo: Bayern Múnich
+
+20. Kai Havertz
+   Posición: Delantero
+   Equipo: Arsenal
+
+21. Niclas Füllkrug
+   Posición: Delantero
+   Equipo: West Ham United
+
+22. Thomas Müller
+   Posición: Delantero
+   Equipo: Bayern Múnich
+
+23. Deniz Undav
+   Posición: Delantero
+   Equipo: Stuttgart
+
+24. Chris Führich
+   Posición: Extremo
+   Equipo: Stuttgart
+
+25. Maximilian Beier
+   Posición: Delantero
+   Equipo: Borussia Dortmund
+
+26. Emre Can
+   Posición: Mediocampista
+   Equipo: Borussia Dortmund
+
+====================================================
+PAÍS: PAÍSES BAJOS
+Fundación de la federación: 1889
+Sede principal: Zeist
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Bart Verbruggen
+   Posición: Arquero
+   Equipo: Brighton
+
+2. Justin Bijlow
+   Posición: Arquero
+   Equipo: Feyenoord
+
+3. Mark Flekken
+   Posición: Arquero
+   Equipo: Brentford
+
+4. Denzel Dumfries
+   Posición: Lateral derecho
+   Equipo: Inter de Milán
+
+5. Jeremie Frimpong
+   Posición: Lateral derecho
+   Equipo: Bayer Leverkusen
+
+6. Virgil van Dijk
+   Posición: Defensor central
+   Equipo: Liverpool
+
+7. Matthijs de Ligt
+   Posición: Defensor central
+   Equipo: Manchester United
+
+8. Stefan de Vrij
+   Posición: Defensor central
+   Equipo: Inter de Milán
+
+9. Micky van de Ven
+   Posición: Defensor central
+   Equipo: Tottenham Hotspur
+
+10. Nathan Aké
+   Posición: Defensor
+   Equipo: Manchester City
+
+11. Daley Blind
+   Posición: Defensor
+   Equipo: Girona
+
+12. Ian Maatsen
+   Posición: Lateral izquierdo
+   Equipo: Aston Villa
+
+13. Frenkie de Jong
+   Posición: Mediocampista
+   Equipo: Barcelona
+
+14. Tijjani Reijnders
+   Posición: Mediocampista
+   Equipo: Milan
+
+15. Jerdy Schouten
+   Posición: Mediocampista
+   Equipo: PSV
+
+16. Ryan Gravenberch
+   Posición: Mediocampista
+   Equipo: Liverpool
+
+17. Xavi Simons
+   Posición: Mediapunta
+   Equipo: RB Leipzig
+
+18. Teun Koopmeiners
+   Posición: Mediocampista
+   Equipo: Juventus
+
+19. Cody Gakpo
+   Posición: Extremo
+   Equipo: Liverpool
+
+20. Memphis Depay
+   Posición: Delantero
+   Equipo: Corinthians
+
+21. Donyell Malen
+   Posición: Extremo
+   Equipo: Aston Villa
+
+22. Steven Bergwijn
+   Posición: Extremo
+   Equipo: Al-Ittihad
+
+23. Brian Brobbey
+   Posición: Delantero
+   Equipo: Ajax
+
+24. Wout Weghorst
+   Posición: Delantero
+   Equipo: Ajax
+
+25. Noa Lang
+   Posición: Extremo
+   Equipo: PSV
+
+26. Joshua Zirkzee
+   Posición: Delantero
+   Equipo: Manchester United
+
+====================================================
+PAÍS: MÉXICO
+Fundación de la federación: 1927
+Sede principal: Ciudad de México
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Guillermo Ochoa
+   Posición: Arquero
+   Equipo: AVS
+
+2. Luis Malagón
+   Posición: Arquero
+   Equipo: Club América
+
+3. Julio González
+   Posición: Arquero
+   Equipo: Pumas UNAM
+
+4. Jorge Sánchez
+   Posición: Lateral derecho
+   Equipo: Cruz Azul
+
+5. Kevin Álvarez
+   Posición: Lateral derecho
+   Equipo: Club América
+
+6. César Montes
+   Posición: Defensor central
+   Equipo: Almería
+
+7. Johan Vásquez
+   Posición: Defensor central
+   Equipo: Genoa
+
+8. Jesús Orozco Chiquete
+   Posición: Defensor central
+   Equipo: Guadalajara
+
+9. Néstor Araujo
+   Posición: Defensor central
+   Equipo: Club América
+
+10. Gerardo Arteaga
+   Posición: Lateral izquierdo
+   Equipo: Monterrey
+
+11. Jesús Gallardo
+   Posición: Lateral izquierdo
+   Equipo: Toluca
+
+12. Edson Álvarez
+   Posición: Mediocampista
+   Equipo: West Ham United
+
+13. Luis Chávez
+   Posición: Mediocampista
+   Equipo: Dynamo Moscow
+
+14. Erick Sánchez
+   Posición: Mediocampista
+   Equipo: Club América
+
+15. Luis Romo
+   Posición: Mediocampista
+   Equipo: Cruz Azul
+
+16. Orbelín Pineda
+   Posición: Mediocampista
+   Equipo: AEK Atenas
+
+17. Carlos Rodríguez
+   Posición: Mediocampista
+   Equipo: Cruz Azul
+
+18. Roberto Alvarado
+   Posición: Extremo
+   Equipo: Guadalajara
+
+19. Uriel Antuna
+   Posición: Extremo
+   Equipo: Tigres UANL
+
+20. Hirving Lozano
+   Posición: Extremo
+   Equipo: San Diego FC
+
+21. Julián Quiñones
+   Posición: Delantero
+   Equipo: Al-Qadsiah
+
+22. Santiago Giménez
+   Posición: Delantero
+   Equipo: Milan
+
+23. Henry Martín
+   Posición: Delantero
+   Equipo: Club América
+
+24. Raúl Jiménez
+   Posición: Delantero
+   Equipo: Fulham
+
+25. Diego Lainez
+   Posición: Extremo
+   Equipo: Tigres UANL
+
+26. César Huerta
+   Posición: Extremo
+   Equipo: Anderlecht
+
+====================================================
+PAÍS: URUGUAY
+Fundación de la federación: 1900
+Sede principal: Montevideo
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Sergio Rochet
+   Posición: Arquero
+   Equipo: Internacional
+
+2. Franco Israel
+   Posición: Arquero
+   Equipo: Sporting CP
+
+3. Santiago Mele
+   Posición: Arquero
+   Equipo: Junior
+
+4. José María Giménez
+   Posición: Defensor central
+   Equipo: Atlético de Madrid
+
+5. Ronald Araújo
+   Posición: Defensor central
+   Equipo: Barcelona
+
+6. Sebastián Cáceres
+   Posición: Defensor central
+   Equipo: Club América
+
+7. Mathías Olivera
+   Posición: Lateral izquierdo
+   Equipo: Napoli
+
+8. Matías Viña
+   Posición: Lateral izquierdo
+   Equipo: Flamengo
+
+9. Nahitan Nández
+   Posición: Lateral derecho
+   Equipo: Al-Qadsiah
+
+10. Guillermo Varela
+   Posición: Lateral derecho
+   Equipo: Flamengo
+
+11. Lucas Olaza
+   Posición: Lateral izquierdo
+   Equipo: Krasnodar
+
+12. Federico Valverde
+   Posición: Mediocampista
+   Equipo: Real Madrid
+
+13. Rodrigo Bentancur
+   Posición: Mediocampista
+   Equipo: Tottenham Hotspur
+
+14. Manuel Ugarte
+   Posición: Mediocampista
+   Equipo: Manchester United
+
+15. Nicolás de la Cruz
+   Posición: Mediocampista
+   Equipo: Flamengo
+
+16. Giorgian de Arrascaeta
+   Posición: Mediapunta
+   Equipo: Flamengo
+
+17. Facundo Pellistri
+   Posición: Extremo
+   Equipo: Panathinaikos
+
+18. Agustín Canobbio
+   Posición: Extremo
+   Equipo: Athletico Paranaense
+
+19. Maximiliano Araújo
+   Posición: Extremo
+   Equipo: Sporting CP
+
+20. Cristian Olivera
+   Posición: Extremo
+   Equipo: Los Angeles FC
+
+21. Darwin Núñez
+   Posición: Delantero
+   Equipo: Liverpool
+
+22. Luis Suárez
+   Posición: Delantero
+   Equipo: Inter Miami
+
+23. Edinson Cavani
+   Posición: Delantero
+   Equipo: Boca Juniors
+
+24. Brian Rodríguez
+   Posición: Extremo
+   Equipo: Club América
+
+25. Matías Vecino
+   Posición: Mediocampista
+   Equipo: Lazio
+
+26. Emiliano Martínez Toranza
+   Posición: Mediocampista
+   Equipo: Midtjylland
+
+====================================================
+PAÍS: DINAMARCA
+Fundación de la federación: 1889
+Sede principal: Brøndby
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Kasper Schmeichel
+   Posición: Arquero
+   Equipo: Celtic
+
+2. Frederik Rønnow
+   Posición: Arquero
+   Equipo: Union Berlin
+
+3. Mads Hermansen
+   Posición: Arquero
+   Equipo: Leicester City
+
+4. Joakim Mæhle
+   Posición: Lateral
+   Equipo: Wolfsburg
+
+5. Alexander Bah
+   Posición: Lateral derecho
+   Equipo: Benfica
+
+6. Andreas Christensen
+   Posición: Defensor central
+   Equipo: Barcelona
+
+7. Jannik Vestergaard
+   Posición: Defensor central
+   Equipo: Leicester City
+
+8. Victor Nelsson
+   Posición: Defensor central
+   Equipo: Galatasaray
+
+9. Joachim Andersen
+   Posición: Defensor central
+   Equipo: Fulham
+
+10. Simon Kjær
+   Posición: Defensor central
+   Equipo: Milan
+
+11. Rasmus Kristensen
+   Posición: Lateral derecho
+   Equipo: Eintracht Frankfurt
+
+12. Christian Eriksen
+   Posición: Mediocampista
+   Equipo: Manchester United
+
+13. Pierre-Emile Højbjerg
+   Posición: Mediocampista
+   Equipo: Olympique de Marseille
+
+14. Thomas Delaney
+   Posición: Mediocampista
+   Equipo: Copenhagen
+
+15. Morten Hjulmand
+   Posición: Mediocampista
+   Equipo: Sporting CP
+
+16. Mathias Jensen
+   Posición: Mediocampista
+   Equipo: Brentford
+
+17. Christian Nørgaard
+   Posición: Mediocampista
+   Equipo: Brentford
+
+18. Jesper Lindstrøm
+   Posición: Mediapunta
+   Equipo: Everton
+
+19. Andreas Skov Olsen
+   Posición: Extremo
+   Equipo: Club Brugge
+
+20. Mikkel Damsgaard
+   Posición: Extremo
+   Equipo: Brentford
+
+21. Rasmus Højlund
+   Posición: Delantero
+   Equipo: Manchester United
+
+22. Jonas Wind
+   Posición: Delantero
+   Equipo: Wolfsburg
+
+23. Yussuf Poulsen
+   Posición: Delantero
+   Equipo: RB Leipzig
+
+24. Kasper Dolberg
+   Posición: Delantero
+   Equipo: Anderlecht
+
+25. Mohamed Daramy
+   Posición: Extremo
+   Equipo: Reims
+
+26. Jacob Bruun Larsen
+   Posición: Extremo
+   Equipo: Stuttgart
+
+====================================================
+PAÍS: CROACIA
+Fundación de la federación: 1912
+Sede principal: Zagreb
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Dominik Livaković
+   Posición: Arquero
+   Equipo: Fenerbahçe
+
+2. Ivica Ivušić
+   Posición: Arquero
+   Equipo: Pafos
+
+3. Nediljko Labrović
+   Posición: Arquero
+   Equipo: Augsburg
+
+4. Josip Juranović
+   Posición: Lateral derecho
+   Equipo: Union Berlin
+
+5. Josip Stanišić
+   Posición: Defensor
+   Equipo: Bayern Múnich
+
+6. Joško Gvardiol
+   Posición: Defensor
+   Equipo: Manchester City
+
+7. Martin Erlić
+   Posición: Defensor central
+   Equipo: Bologna
+
+8. Marin Pongračić
+   Posición: Defensor central
+   Equipo: Fiorentina
+
+9. Duje Ćaleta-Car
+   Posición: Defensor central
+   Equipo: Olympique Lyonnais
+
+10. Borna Sosa
+   Posición: Lateral izquierdo
+   Equipo: Torino
+
+11. Domagoj Vida
+   Posición: Defensor central
+   Equipo: AEK Atenas
+
+12. Luka Modrić
+   Posición: Mediocampista
+   Equipo: Real Madrid
+
+13. Mateo Kovačić
+   Posición: Mediocampista
+   Equipo: Manchester City
+
+14. Marcelo Brozović
+   Posición: Mediocampista
+   Equipo: Al-Nassr
+
+15. Mario Pašalić
+   Posición: Mediocampista
+   Equipo: Atalanta
+
+16. Lovro Majer
+   Posición: Mediocampista
+   Equipo: Wolfsburg
+
+17. Luka Sučić
+   Posición: Mediocampista
+   Equipo: Real Sociedad
+
+18. Nikola Vlašić
+   Posición: Mediocampista
+   Equipo: Torino
+
+19. Martin Baturina
+   Posición: Mediocampista
+   Equipo: Dinamo Zagreb
+
+20. Ivan Perišić
+   Posición: Extremo
+   Equipo: Hajduk Split
+
+21. Andrej Kramarić
+   Posición: Delantero
+   Equipo: Hoffenheim
+
+22. Bruno Petković
+   Posición: Delantero
+   Equipo: Dinamo Zagreb
+
+23. Ante Budimir
+   Posición: Delantero
+   Equipo: Osasuna
+
+24. Marko Pjaca
+   Posición: Extremo
+   Equipo: Dinamo Zagreb
+
+25. Mislav Oršić
+   Posición: Extremo
+   Equipo: Trabzonspor
+
+26. Marco Pašalić
+   Posición: Extremo
+   Equipo: Rijeka
+
+====================================================
+PAÍS: BÉLGICA
+Fundación de la federación: 1895
+Sede principal: Bruselas
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Thibaut Courtois
+   Posición: Arquero
+   Equipo: Real Madrid
+
+2. Koen Casteels
+   Posición: Arquero
+   Equipo: Al-Qadsiah
+
+3. Matz Sels
+   Posición: Arquero
+   Equipo: Nottingham Forest
+
+4. Timothy Castagne
+   Posición: Lateral derecho
+   Equipo: Fulham
+
+5. Thomas Meunier
+   Posición: Lateral derecho
+   Equipo: Lille
+
+6. Wout Faes
+   Posición: Defensor central
+   Equipo: Leicester City
+
+7. Jan Vertonghen
+   Posición: Defensor central
+   Equipo: Anderlecht
+
+8. Arthur Theate
+   Posición: Defensor
+   Equipo: Eintracht Frankfurt
+
+9. Zeno Debast
+   Posición: Defensor central
+   Equipo: Sporting CP
+
+10. Maxim De Cuyper
+   Posición: Lateral izquierdo
+   Equipo: Club Brugge
+
+11. Aster Vranckx
+   Posición: Mediocampista
+   Equipo: Wolfsburg
+
+12. Kevin De Bruyne
+   Posición: Mediocampista
+   Equipo: Manchester City
+
+13. Youri Tielemans
+   Posición: Mediocampista
+   Equipo: Aston Villa
+
+14. Amadou Onana
+   Posición: Mediocampista
+   Equipo: Aston Villa
+
+15. Orel Mangala
+   Posición: Mediocampista
+   Equipo: Everton
+
+16. Leandro Trossard
+   Posición: Extremo
+   Equipo: Arsenal
+
+17. Jérémy Doku
+   Posición: Extremo
+   Equipo: Manchester City
+
+18. Johan Bakayoko
+   Posición: Extremo
+   Equipo: PSV
+
+19. Charles De Ketelaere
+   Posición: Mediapunta
+   Equipo: Atalanta
+
+20. Yannick Carrasco
+   Posición: Extremo
+   Equipo: Al-Shabab
+
+21. Romelu Lukaku
+   Posición: Delantero
+   Equipo: Napoli
+
+22. Loïs Openda
+   Posición: Delantero
+   Equipo: RB Leipzig
+
+23. Michy Batshuayi
+   Posición: Delantero
+   Equipo: Galatasaray
+
+24. Dodi Lukebakio
+   Posición: Extremo
+   Equipo: Sevilla
+
+25. Alexis Saelemaekers
+   Posición: Extremo
+   Equipo: Roma
+
+26. Hans Vanaken
+   Posición: Mediocampista
+   Equipo: Club Brugge
+
+====================================================
+PAÍS: ESTADOS UNIDOS
+Fundación de la federación: 1913
+Sede principal: Chicago
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Matt Turner
+   Posición: Arquero
+   Equipo: Crystal Palace
+
+2. Ethan Horvath
+   Posición: Arquero
+   Equipo: Cardiff City
+
+3. Zack Steffen
+   Posición: Arquero
+   Equipo: Colorado Rapids
+
+4. Sergiño Dest
+   Posición: Lateral derecho
+   Equipo: PSV
+
+5. Joe Scally
+   Posición: Lateral derecho
+   Equipo: Borussia Mönchengladbach
+
+6. Antonee Robinson
+   Posición: Lateral izquierdo
+   Equipo: Fulham
+
+7. Tim Ream
+   Posición: Defensor central
+   Equipo: Charlotte FC
+
+8. Chris Richards
+   Posición: Defensor central
+   Equipo: Crystal Palace
+
+9. Cameron Carter-Vickers
+   Posición: Defensor central
+   Equipo: Celtic
+
+10. Miles Robinson
+   Posición: Defensor central
+   Equipo: FC Cincinnati
+
+11. Walker Zimmerman
+   Posición: Defensor central
+   Equipo: Nashville SC
+
+12. Tyler Adams
+   Posición: Mediocampista
+   Equipo: Bournemouth
+
+13. Weston McKennie
+   Posición: Mediocampista
+   Equipo: Juventus
+
+14. Yunus Musah
+   Posición: Mediocampista
+   Equipo: Milan
+
+15. Gio Reyna
+   Posición: Mediapunta
+   Equipo: Borussia Dortmund
+
+16. Malik Tillman
+   Posición: Mediocampista
+   Equipo: PSV
+
+17. Luca de la Torre
+   Posición: Mediocampista
+   Equipo: Celta de Vigo
+
+18. Brenden Aaronson
+   Posición: Mediocampista
+   Equipo: Leeds United
+
+19. Christian Pulisic
+   Posición: Extremo
+   Equipo: Milan
+
+20. Timothy Weah
+   Posición: Extremo
+   Equipo: Juventus
+
+21. Haji Wright
+   Posición: Delantero
+   Equipo: Coventry City
+
+22. Folarin Balogun
+   Posición: Delantero
+   Equipo: Monaco
+
+23. Ricardo Pepi
+   Posición: Delantero
+   Equipo: PSV
+
+24. Josh Sargent
+   Posición: Delantero
+   Equipo: Norwich City
+
+25. Cade Cowell
+   Posición: Extremo
+   Equipo: Guadalajara
+
+26. Kevin Paredes
+   Posición: Extremo
+   Equipo: Wolfsburg
+
+====================================================
+PAÍS: JAPÓN
+Fundación de la federación: 1921
+Sede principal: Tokio
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Zion Suzuki
+   Posición: Arquero
+   Equipo: Parma
+
+2. Daiya Maekawa
+   Posición: Arquero
+   Equipo: Vissel Kobe
+
+3. Keisuke Osako
+   Posición: Arquero
+   Equipo: Sanfrecce Hiroshima
+
+4. Takehiro Tomiyasu
+   Posición: Defensor
+   Equipo: Arsenal
+
+5. Ko Itakura
+   Posición: Defensor central
+   Equipo: Borussia Mönchengladbach
+
+6. Hiroki Ito
+   Posición: Defensor
+   Equipo: Bayern Múnich
+
+7. Shogo Taniguchi
+   Posición: Defensor central
+   Equipo: Sint-Truiden
+
+8. Yukinari Sugawara
+   Posición: Lateral derecho
+   Equipo: Southampton
+
+9. Yuta Nakayama
+   Posición: Lateral izquierdo
+   Equipo: Machida Zelvia
+
+10. Seiya Maikuma
+   Posición: Lateral derecho
+   Equipo: AZ Alkmaar
+
+11. Daiki Hashioka
+   Posición: Lateral derecho
+   Equipo: Luton Town
+
+12. Wataru Endo
+   Posición: Mediocampista
+   Equipo: Liverpool
+
+13. Hidemasa Morita
+   Posición: Mediocampista
+   Equipo: Sporting CP
+
+14. Ao Tanaka
+   Posición: Mediocampista
+   Equipo: Leeds United
+
+15. Daichi Kamada
+   Posición: Mediocampista
+   Equipo: Crystal Palace
+
+16. Reo Hatate
+   Posición: Mediocampista
+   Equipo: Celtic
+
+17. Takumi Minamino
+   Posición: Mediapunta
+   Equipo: Monaco
+
+18. Takefusa Kubo
+   Posición: Extremo
+   Equipo: Real Sociedad
+
+19. Kaoru Mitoma
+   Posición: Extremo
+   Equipo: Brighton
+
+20. Ritsu Doan
+   Posición: Extremo
+   Equipo: Freiburg
+
+21. Junya Ito
+   Posición: Extremo
+   Equipo: Reims
+
+22. Keito Nakamura
+   Posición: Extremo
+   Equipo: Reims
+
+23. Ayase Ueda
+   Posición: Delantero
+   Equipo: Feyenoord
+
+24. Kyogo Furuhashi
+   Posición: Delantero
+   Equipo: Celtic
+
+25. Daizen Maeda
+   Posición: Delantero
+   Equipo: Celtic
+
+26. Yuki Ohashi
+   Posición: Delantero
+   Equipo: Blackburn Rovers
+
+====================================================
+PAÍS: ITALIA
+Fundación de la federación: 1898
+Sede principal: Roma
+
+LISTA DE 26 CONVOCADOS
+----------------------------------------------------
+
+1. Gianluigi Donnarumma
+   Posición: Arquero
+   Equipo: Paris Saint-Germain
+
+2. Guglielmo Vicario
+   Posición: Arquero
+   Equipo: Tottenham Hotspur
+
+3. Alex Meret
+   Posición: Arquero
+   Equipo: Napoli
+
+4. Giovanni Di Lorenzo
+   Posición: Lateral derecho
+   Equipo: Napoli
+
+5. Matteo Darmian
+   Posición: Defensor
+   Equipo: Inter de Milán
+
+6. Alessandro Bastoni
+   Posición: Defensor central
+   Equipo: Inter de Milán
+
+7. Gianluca Mancini
+   Posición: Defensor central
+   Equipo: Roma
+
+8. Alessandro Buongiorno
+   Posición: Defensor central
+   Equipo: Napoli
+
+9. Riccardo Calafiori
+   Posición: Defensor
+   Equipo: Arsenal
+
+10. Federico Dimarco
+   Posición: Lateral izquierdo
+   Equipo: Inter de Milán
+
+11. Andrea Cambiaso
+   Posición: Lateral
+   Equipo: Juventus
+
+12. Nicolò Barella
+   Posición: Mediocampista
+   Equipo: Inter de Milán
+
+13. Jorginho
+   Posición: Mediocampista
+   Equipo: Arsenal
+
+14. Manuel Locatelli
+   Posición: Mediocampista
+   Equipo: Juventus
+
+15. Davide Frattesi
+   Posición: Mediocampista
+   Equipo: Inter de Milán
+
+16. Lorenzo Pellegrini
+   Posición: Mediocampista
+   Equipo: Roma
+
+17. Sandro Tonali
+   Posición: Mediocampista
+   Equipo: Newcastle United
+
+18. Bryan Cristante
+   Posición: Mediocampista
+   Equipo: Roma
+
+19. Federico Chiesa
+   Posición: Extremo
+   Equipo: Liverpool
+
+20. Mattia Zaccagni
+   Posición: Extremo
+   Equipo: Lazio
+
+21. Domenico Berardi
+   Posición: Extremo
+   Equipo: Sassuolo
+
+22. Giacomo Raspadori
+   Posición: Delantero
+   Equipo: Napoli
+
+23. Mateo Retegui
+   Posición: Delantero
+   Equipo: Atalanta
+
+24. Moise Kean
+   Posición: Delantero
+   Equipo: Fiorentina
+
+25. Riccardo Orsolini
+   Posición: Extremo
+   Equipo: Bologna
+
+26. Stephan El Shaarawy
+   Posición: Extremo
+   Equipo: Roma
+
